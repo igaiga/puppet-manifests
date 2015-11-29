@@ -15,5 +15,6 @@ class base {
   include patch
   include readline
   include sudo
+  include tmux
   include zlib
 }
