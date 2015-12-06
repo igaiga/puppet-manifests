@@ -4,6 +4,7 @@ class base {
   include dstat
   include gcc
   include git
+  include gitconfig
   include glibc
   include htop
   include iotop
